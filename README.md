@@ -12,8 +12,6 @@
 
 ### [License](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/LICENSE)
 
-----
-
 ## Setup
 
 The tool can be installed like a regular module, so you can log out of your world, go to Modules > Install Modules and look for it by name.
