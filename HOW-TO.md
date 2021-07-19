@@ -18,7 +18,7 @@ Here's a summary of what you need to keep in mind:
 - Background Features are *Feature*-type items that have the "Background" source and a background name as Requirement. All found Background Names will be added to the background selector.
 - Spells are *Spell*-type items.*
 
-> \* *Remember that the tool at the time only assists in making 1st level characters, so things like class features higher-than-first-level or spells other than cantrips and 1st level spells are ignored by the tool for now.*
+> \* *Remember that the tool at the moment only assists in making 1st level characters, so things like class features higher-than-first-level or spells other than cantrips and 1st level spells are ignored by the tool for now.*
 
 ## Defining what compendiums to use for each item category
 
@@ -28,7 +28,11 @@ As explained on the "Creating Custom ..." section above, on each entry you can t
 
 **Compendium names need to be the internal foundry names, not the ones you see on screen on the compendiums tab.** Usually it is the module name (if coming from a module) dot (.) the same name in lowercase, with all spaces replaced by dashes (-). Compendiums created on a given world will be prefixed by "world." instead of a module name. 
 
-> You can type "game.packs" on the console to see all loaded packs, just to make sure you got the names right.
+> You can type ..
+>```
+>game.packs
+>``` 
+>.. on the console to see all loaded packs, just to make sure you got the names right.
 
 ## Setting default token attributes (name and bars)
 
