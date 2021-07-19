@@ -1,4 +1,4 @@
-# How To
+# How-To for DMs
 
 ## Creating a custom race/subrace/racial feature/class/class feature/background feature/spell
 
@@ -28,11 +28,10 @@ As explained on the "Creating Custom ..." section above, on each entry you can t
 
 **Compendium names need to be the internal foundry names, not the ones you see on screen on the compendiums tab.** Usually it is the module name (if coming from a module) dot (.) the same name in lowercase, with all spaces replaced by dashes (-). Compendiums created on a given world will be prefixed by "world." instead of a module name. 
 
-> You can type ..
+> You can type the following on the console to see all loaded packs, just to make sure you got the names right.
 >```
 >game.packs
->``` 
->.. on the console to see all loaded packs, just to make sure you got the names right.
+>```
 
 ## Setting default token attributes (name and bars)
 

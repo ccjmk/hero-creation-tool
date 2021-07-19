@@ -13,7 +13,7 @@ As the DnD5e system grows and evolves, and new information becomes available in 
 
 ## How do I add my own races/classes/...
 * If you are a player -> Ask your DM to set those up, and/or help him setting them up.
-* If you are a DM / Helping hand -> Please, refer to the [HOW-TO](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/HOW-TO.md).
+* If you are a DM / Helping hand -> Please, refer to the [HOW-TO](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/HOW-TO.md).
 
 ## Why doesn't X class have Y starting gold instead of that pesky default ?
 On a similar vein to the point above, the short answer is that we don't know. Longer answer is that starting gold per class is a PHB content, something we don't have available on the SRD, so there's legalize stuff involved. For this reason, it is also unlikely that Foundry *Class*-items will ever have an Starting Gold attribute somewhere.
