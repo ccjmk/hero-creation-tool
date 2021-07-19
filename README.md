@@ -2,19 +2,19 @@
 
 ![Hero Creation Tool](src/assets/logo.png)
 
-### [Setup](#setup)
+* **[Setup](#setup)**
 
-### [The Tool](#the-tool)
+* **[The Tool](#the-tool)**
 
-### [FAQ](#faq)
+* **[FAQ](#faq)**
 
-### [How-To for DMs](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/HOW-TO.md)
+* **[How-To for DMs](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/HOW-TO.md)**
 
-### [Changelog](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/CHANGELOG.md)
+* **[Changelog](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/CHANGELOG.md)**
 
-### [Setup for collaborators](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/DEV-SETUP.md)
+* **[Setup for collaborators](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/DEV-SETUP.md)**
 
-### [License](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/LICENSE)
+* **[License](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/LICENSE)**
 
 ## Setup
 
