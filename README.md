@@ -2,6 +2,10 @@
 
 ![Hero Creation Tool](src/assets/logo.png)
 
+### [Setup](#setup)
+
+### [The Tool](#the-tool)
+
 ### [FAQ](#faq)
 
 ### [How-To for DMs](https://github.com/AndrewJiangB/hero-creation-tool/blob/main/docs/HOW-TO.md)
