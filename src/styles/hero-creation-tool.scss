@@ -19,6 +19,12 @@ $color-accent: darkred;
 }
 
 .hct {
+  &-accented {
+    color: $color-accent;
+  }
+  &-accented[href] {
+    color: $color-accent;
+  }
   &-flex {
     display: flex;
 

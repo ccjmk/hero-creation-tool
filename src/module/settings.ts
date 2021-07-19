@@ -65,7 +65,7 @@ function useTokenizerIfAvailable() {
   game.settings.register(Constants.MODULE_NAME, SettingKeys.USE_TOKENIZER, {
     name: game.i18n.localize('HCT.Setting.UseTokenizer.Name'),
     hint: game.i18n.localize('HCT.Setting.UseTokenizer.Hint'),
-    scope: 'client',
+    scope: 'world',
     config: true,
     type: Boolean,
     default: false,
