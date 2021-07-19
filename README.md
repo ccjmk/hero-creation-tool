@@ -28,6 +28,17 @@ After installing the module, you will find a new button on top of your Actors' D
 
 ## FAQ
 
+* ### Why clicking on the avatar/token or the buttons do nothing / cause an error message  ?
+
+DMs shouldn't experience this, but if you are a player, ask your DM to give you permission to *Upload New Files* and *Use File Browser*.
+
+![Button Example](examples/player-permissions.png)
+
+* ### Why clicking on Submit does nothing / causes an error message ?
+
+Likewise, DMs shouldn't experience this, but if you are a player, ask your DM to give you permission to *Create New Actors* and/or *Create New Items*, depending on the error you are getting (safer to have both).
+
+![Button Example](examples/create-permissions.png)
 
 * ### Why ABC doesn't automatically add X, Y, and/or Z ?
 Short Answer: Because we have no way of knowing for sure.
